@@ -1,4 +1,4 @@
-## Hello, I'm Kerstin.
+## Hello, I'm Kerstin!
 
 I'm working on expanding my skills in computer programming and machine learning techniques. I currently work as a Data Analyst for a non-profit that serves homeless women, and have lately been working on projects dealing with population movement and neighborhood typologies.
 
@@ -6,7 +6,7 @@ I'm working on expanding my skills in computer programming and machine learning 
 
 * 📚 My current course is Data & Visual Analytics.
 
-* 📝 My current project is creating an interactive map of clustered neighborhoods of Dallas, based on user chosen neighborhood characteristics.
+* 💻 Right now I'm working on creating an interactive map of clustered neighborhoods of Dallas, based on user chosen neighborhood characteristics.
 
 * 🔍 My goal for future projects is to apply more statistical analysis to my results.
 
