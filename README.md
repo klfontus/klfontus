@@ -1,10 +1,10 @@
 ## Hello, I'm Kerstin!
 
-I'm working on expanding my skills in computer programming and machine learning techniques. I currently work as a Data Analyst for a non-profit that serves homeless women, and have lately been working on projects dealing with population movement and neighborhood typologies.
+I'm working on expanding my skills in computer programming and machine learning techniques. I currently work as a Data Analyst for a non-profit that serves homeless women, and have recently been working on projects dealing with population movement and neighborhood typologies.
 
 * 🎓 I'm a student in Georgia Tech's Master's in Analytics program, in the Computational Track.
 
-* 📚 My current course is Data & Visual Analytics.
+* 📝 Currently, I am taking Data & Visual Analytics.
 
 * 💻 Right now I'm working on creating an interactive map of clustered neighborhoods of Dallas, based on user chosen neighborhood characteristics.
 
