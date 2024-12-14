@@ -4,15 +4,15 @@ I'm working on expanding my skills in computer programming and machine learning 
 
 * 🎓 I'm a student in Georgia Tech's Master's in Analytics program, in the Computational Track.
 
-* 📝 Currently, I am taking Data & Visual Analytics.
+* 📝 Currently, I am taking Analysis of Unstructured Data and High Dimesional Data Analytics.
 
-* 💻 Right now I'm working on creating an interactive map of clustered neighborhoods of Dallas, based on user chosen neighborhood characteristics.
+* 💻 My most recent project involved creating an interactive map of clustered neighborhoods of different Texas metropolitan areas in order to create neighborhood typologies for a wide variety of users.
 
 * 🔍 My goal for future projects is to apply more statistical analysis to my results.
 
 * 📚 My undergraduate degree was in Mathematics and Scientific Computation, and I completed a research project titled [*The Ground State Degeneracy of Two Quantum Spin Rings*](https://mcnair.ucdavis.edu/sites/g/files/dgvnsk476/files/inline-files/The%20Ground%20State%20Degeneracy%20of%20Two%20Quantum%20Spin%20Chains.pdf).
 
-* 🌏 Fun fact about me: After getting my Bachelor's, I was supposed to teach Math in Mozambique through the Peace Corps, but was was waylaid by the COVID-19 pandemic. I never ended up going, and decided to pursue a career in Data Analytics instead.
+* 🌏 Fun fact about me: After finishing my Bachelor's, I was supposed to teach Math in Mozambique through the Peace Corps, but was was waylaid by the COVID-19 pandemic. I never ended up going, and decided to pursue a career in Data Analytics instead.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/kerstin-fontus)!
 
